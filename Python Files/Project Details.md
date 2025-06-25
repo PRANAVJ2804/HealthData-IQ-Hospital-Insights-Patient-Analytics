@@ -1,4 +1,4 @@
-# Project 1 (1)
+# Project 1
 
 # **HealthData IQ – Hospital Insights & Patient Analytics**
 
