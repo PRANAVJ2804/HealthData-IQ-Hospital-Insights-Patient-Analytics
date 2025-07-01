@@ -68,28 +68,28 @@ This analysis focuses on:
 ## 📊 EDA
 
 ### 🏥 Hospital Type Distribution Across States
-![Hospital Type by State](./Images/distribution_of_grades.png)
+![alt text](</Images/Distribution of Hospital Types Across States.png>)
 
 ### 🚨 Emergency Service Availability by State
-![Emergency Service Rates](./Images/distribution_by_gender.png)
+![alt text](</Images/Emergency-Service Availability Rate by State.png>)
 
 ### ⭐ Top 5 and Bottom 5 States by Hospital Rating
-![State Ratings Comparison](./Images/count_gender_group.png)
+![alt text](</Images/Top 5 and Bottom 5 States by Average Hospital Rating.png>)
 
 ### 😊 Patient Satisfaction by Hospital Type
-![Satisfaction Levels](./Images/average_score_by_subject.png)
+![alt text](</Images/Patient Satisfaction by Hospital Type.png>)
 
 ### 📈 Distribution of Hospital Ratings by Type
-![Boxplot of Ratings](./Images/average_score_by_gender.png)
+![alt text](</Images/Distribution of Hospital Ratings by Hospital Types.png>)
 
 ### 🔥 Correlation Heatmap
-![Emergency Services vs Hospital Ratings]([./Images/score_by_group_and_parental_education.png](https://github.com/PRANAVJ2804/HealthData-IQ-Hospital-Insights-Patient-Analytics/blob/main/Images/Correlation%20Heatmap%20of%20Numeric%20Variables.png))
+![alt text](</Images/Correlation Heatmap of Numeric Variables.png>)
 
 ### 🏛️ Hospital Ownership Distribution Across States
-![Ownership Patterns](./Images/performance_by_lunch_and_test_prep.png)
+![alt text](</Images/Distribution of Hospital Ownership Types Across States.png>)
 
 ### 🏥 Hospital Count by State
-![Simple State Distribution](./Images/test_prep_by_gender_and_group.png)
+![alt text](</Images/Number of Hospitals per State.png>)
 
 ---
 
