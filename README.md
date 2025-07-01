@@ -168,7 +168,7 @@ This analysis revealed:
 
 You can find the SQL queries and logic used for backend analysis in the following file:
 
-📄 [`SQL Analysis File.sql`]((https://github.com/PRANAVJ2804/HealthData-IQ-Hospital-Insights-Patient-Analytics/blob/main/Sql%20Files/SQL%20Analysis%20File.sql))
+📄 [`SQL Analysis File.sql`](https://github.com/PRANAVJ2804/HealthData-IQ-Hospital-Insights-Patient-Analytics/blob/main/Sql%20Files/SQL%20Analysis%20File.sql)
 
 ---
 
